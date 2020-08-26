@@ -10,3 +10,6 @@ https://www.cnblogs.com/wzh2010/p/6285990.html
 
 https://www.cnblogs.com/wzh2010/p/6286923.html
 即视图数据模型（ViewModel）和视图（View）之间的双向绑定和触发
+
+Prism框架
+https://blog.csdn.net/lnc2003
